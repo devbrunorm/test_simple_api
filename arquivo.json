@@ -1,0 +1,160 @@
+{
+    "clientes": [
+        {
+            "nome": "Bruno",
+            "idade": 26,
+            "compras": [
+                {
+                    "id": "625032f24b7d7744e5b10023",
+                        "produtos": [
+                            {
+                                "id": "62503318eaf2604430a7993a",
+                                "nome": "God of War",
+                                "categoria": "Jogos Eletrônicos",
+                                "preco": "R$ 150,00",
+                                "plataforma": "PS4"
+                            },
+                            {
+                                "id": "62503385e9f8b5a9e4141bc9",
+                                "nome": "Banco Imobiliário",
+                                "categoria": "Jogos de Tabuleiro",
+                                "preco": "R$ 120,00"
+                            }
+                        ],
+                    "valor_pago": "R$ 270,00",
+                    "timestamp": "2022-04-08 10:10:32"
+                },
+                {
+                    "id": "6250359de610940248b0458a",
+                        "produtos": [
+                            {
+                                "id": "62503318eaf2604430a7993a",
+                                "nome": "Clean Code",
+                                "categoria": "Livros",
+                                "tematica": "Programação",
+                                "preco": "R$ 71,50",
+                                "isbn_13": "978-8576082675",
+                                "edicao": 1,
+                                "autor": "Robert C. Martin",
+                                "editora": "Alta Books"
+                            }
+                        ],
+                    "valor_pago": "R$ 71,50",
+                    "timestamp": "2022-04-01 16:34:54"
+                },
+                {
+                    "id": "625037107249e3251d9b7c4c",
+                        "produtos": [
+                            {
+                                "id": "6250371e0f92729a273dddfc",
+                                "nome": "Dungeons & Dragons - Player's Handbook",
+                                "categoria": "Livros",
+                                "tematica": "RPG",
+                                "preco": "R$ 158,59",
+                                "editora": "Wizards of the Coast"
+                            }
+                        ],
+                    "valor_pago": "R$ 158,59",
+                    "timestamp": "2022-03-25 18:21:03"
+                }
+            ],
+            "interesses": [
+                {"interesse": "Programação"},
+                {"interesse": "Jogos Eletrônicos"},
+                {"interesse": "Jogos Analógicos"},
+                {"interesse": "Matemática"},
+                {"interesse": "Física"}
+            ]
+        },
+        {
+            "nome": "Luis",
+            "idade": 40,
+            "compras": [
+                {
+                    "id": "6250359de610940248b0458a",
+                        "produtos": [
+                            {
+                                "id": "62503318eaf2604430a7993a",
+                                "nome": "Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow",
+                                "categoria": "Livros",
+                                "tematica": "Programação",
+                                "preco": "R$ 277,45",
+                                "isbn_13": "978-8576082675",
+                                "edicao": 1,
+                                "autor": "Aurélien Géron",
+                                "editora": "O'Reilly"
+                            }
+                        ],
+                    "valor_pago": "R$ 71,50",
+                    "timestamp": "2022-04-01 16:34:54"
+                },
+                {
+                    "id": "625032f24b7d7744e5b10023",
+                        "produtos": [
+                            {
+                                "id": "62503318eaf2604430a7993a",
+                                "nome": "Super Mario World",
+                                "categoria": "Jogos Eletrônicos",
+                                "preco": "R$ 118,99",
+                                "plataforma": "SNES"
+                            }
+                        ],
+                    "valor_pago": "R$ 270,00",
+                    "timestamp": "2022-04-08 10:10:32"
+                }
+            ],
+            "interesses": [
+                {"interesse": "Programação"},
+                {"interesse": "Jogos Eletrônicos"},
+                {"interesse": "Jogos Analógicos"},
+                {"interesse": "Matemática"},
+                {"interesse": "Física"}
+            ]
+        },
+        {
+            "nome": "Ana",
+            "idade": 32,
+            "compras": [
+                {
+                    "id": "6250359de610940248b0458a",
+                        "produtos": [
+                            {
+                                "id": "62503318eaf2604430a7993a",
+                                "nome": "Harry Potter",
+                                "categoria": "Livros",
+                                "tematica": "Programação",
+                                "preco": "R$ 277,45",
+                                "isbn_13": "978-8576082675",
+                                "edicao": 1,
+                                "autor": "Aurélien Géron",
+                                "editora": "O'Reilly"
+                            }
+                        ],
+                    "valor_pago": "R$ 71,50",
+                    "timestamp": "2022-04-01 16:34:54"
+                },
+                {
+                    "id": "625032f24b7d7744e5b10023",
+                        "produtos": [
+                            {
+                                "id": "62503318eaf2604430a7993a",
+                                "nome": "Donkey Kong Country",
+                                "categoria": "Jogos Eletrônicos",
+                                "preco": "R$ 118,99",
+                                "plataforma": "SNES"
+                            }
+                        ],
+                    "valor_pago": "R$ 270,00",
+                    "timestamp": "2022-04-08 10:10:32"
+                }
+            ],
+            "interesses": [
+                {"interesse": "Programação"},
+                {"interesse": "Jogos Eletrônicos"},
+                {"interesse": "Jogos Analógicos"},
+                {"interesse": "Matemática"},
+                {"interesse": "Física"}
+            ]
+        }
+    ]
+}
