@@ -1,0 +1,30 @@
+{
+    "Cliente": {
+        "id": "1197262298",
+        "Y": 1,
+        "inclination_X": 0,
+        "inclination_Y": 0,
+        "inclination_Z": 0
+    },
+    "Jogos Eletrônicos": {
+        "id": "377127736",
+        "Y": 2.4,
+        "inclination_X": 270,
+        "inclination_Y": 0,
+        "inclination_Z": 270
+    },
+    "Jogos de Tabuleiro": {
+        "id": "2843726250",
+        "Y": 2.4,
+        "inclination_X": 0,
+        "inclination_Y": 0,
+        "inclination_Z": 0
+    },
+    "Livros": {
+        "id": "663900544",
+        "Y": 2.4,
+        "inclination_X": 0,
+        "inclination_Y": 75,
+        "inclination_Z": 90
+    }
+}
