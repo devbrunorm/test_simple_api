@@ -22,7 +22,8 @@
                             }
                         ],
                     "valor_pago": "R$ 270,00",
-                    "timestamp": "2022-04-08 10:10:32"
+                    "timestamp": "2022-04-08 10:10:32",
+                    "acesso": "Facebook"
                 },
                 {
                     "id": "6250359de610940248b0458a",
@@ -40,7 +41,8 @@
                             }
                         ],
                     "valor_pago": "R$ 71,50",
-                    "timestamp": "2022-04-01 16:34:54"
+                    "timestamp": "2022-04-01 16:34:54",
+                    "acesso": "Website"
                 },
                 {
                     "id": "625037107249e3251d9b7c4c",
@@ -55,7 +57,8 @@
                             }
                         ],
                     "valor_pago": "R$ 158,59",
-                    "timestamp": "2022-03-25 18:21:03"
+                    "timestamp": "2022-03-25 18:21:03",
+                    "acesso": "Website"
                 }
             ],
             "interesses": [
@@ -86,7 +89,8 @@
                             }
                         ],
                     "valor_pago": "R$ 71,50",
-                    "timestamp": "2022-04-01 16:34:54"
+                    "timestamp": "2022-04-01 16:34:54",
+                    "acesso": "Website"
                 },
                 {
                     "id": "625032f24b7d7744e5b10023",
@@ -100,7 +104,8 @@
                             }
                         ],
                     "valor_pago": "R$ 270,00",
-                    "timestamp": "2022-04-08 10:10:32"
+                    "timestamp": "2022-04-08 10:10:32",
+                    "acesso": "Facebook"
                 }
             ],
             "interesses": [
@@ -131,7 +136,8 @@
                             }
                         ],
                     "valor_pago": "R$ 71,50",
-                    "timestamp": "2022-04-01 16:34:54"
+                    "timestamp": "2022-04-01 16:34:54",
+                    "acesso": "Facebook"
                 },
                 {
                     "id": "625032f24b7d7744e5b10023",
@@ -145,7 +151,8 @@
                             }
                         ],
                     "valor_pago": "R$ 270,00",
-                    "timestamp": "2022-04-08 10:10:32"
+                    "timestamp": "2022-04-08 10:10:32",
+                    "acesso": "Website"
                 }
             ],
             "interesses": [
